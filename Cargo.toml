@@ -1,0 +1,9 @@
+[package]
+name = "marktextml"
+version = "0.1.0"
+edition = "2021"
+description = "Markdown + Mermaid + LaTeX -> static HTML blog generator"
+
+[dependencies]
+katex-rs = "0.3"
+pulldown-cmark = "0.13"

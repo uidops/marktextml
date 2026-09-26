@@ -1,0 +1,7 @@
+/target
+/dist
+
+# AI agent planning notes — local working files, not part of the project
+/task_plan.md
+/progress.md
+/findings.md
