@@ -132,3 +132,7 @@ cargo run -- build
 
 `dist/` and `target/` are gitignored, as are the agent planning notes
 (`task_plan.md`, `progress.md`, `findings.md`).
+
+## License
+
+BSD 3-Clause. See [LICENSE](LICENSE).
