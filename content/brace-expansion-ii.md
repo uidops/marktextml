@@ -4,6 +4,7 @@ date: 2026-09-28
 slug: brace-expansion-ii
 description: LeetCode 1096 as a formal-language problem — what the expression denotes as a finite language, why that denotation is a semiring homomorphism, how one character of lookahead decides every parse step, and where the exponential work hides.
 tags: [leetcode, formal-languages, parsers, rust, complexity]
+banner: assets/img/brace-expansion-ii.svg
 ---
 
 [LeetCode 1096](https://leetcode.com/problems/brace-expansion-ii) (Hard, Weekly Contest 142) hands you a string of letters, braces
