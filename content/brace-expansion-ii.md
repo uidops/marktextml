@@ -6,7 +6,7 @@ description: LeetCode 1096 as a formal-language problem — what the expression 
 tags: [leetcode, formal-languages, parsers, rust, complexity]
 ---
 
-LeetCode 1096 (Hard, Weekly Contest 142) hands you a string of letters, braces
+[LeetCode 1096](https://leetcode.com/problems/brace-expansion-ii) (Hard, Weekly Contest 142) hands you a string of letters, braces
 and commas and asks for *every word the string stands for*, sorted, with no
 repeats. The statement gives the meaning of an expression in three rules and
 then leaves you alone with them.
